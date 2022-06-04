@@ -8,3 +8,6 @@ func print() {
 func printFeature2(){
     print("Feature 2")
 }
+func printFeature3(){
+    print("Feature 3")
+}
