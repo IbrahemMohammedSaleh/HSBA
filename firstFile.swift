@@ -13,3 +13,6 @@ func printfeature1() {
     print("x+y")
 
 }
+func secondFunc() {
+    print("z+d")
+}
